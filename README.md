@@ -35,7 +35,7 @@ This project is a Streamlit application that scrapes job listings from various j
 
 1. Clone the repository:
     bash
-    git clone https://github.com/vanishree956/job-scraping-app.git
+    git clone [https://github.com/vanishree956/job-scraping-app.git](https://github.com/vanishree956/scraping)
     cd job-scraping-app
     
 
