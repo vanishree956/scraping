@@ -1,0 +1,18 @@
+,,
+1. 36bec447a97c4f1e - Legit,,
+   Job Title: Software Developer,,
+   Company: Oracle,,
+   Location: Bengaluru, Karnataka,
+   Description: The job description is detailed and provides specific information about the responsibilities, qualifications, and requirements.
+,,
+2. 7ab81c51c524fed1 - Legit,,
+   Job Title: Software Engineer,,
+   Company: Oracle,,
+   Location: Bengaluru, Karnataka,
+   Description: The job description is extensive and provides an in-depth overview of the role, responsibilities, and requirements.
+,,
+3. e450e3688872b981 - Fake,,
+   Job Title: Software Developer Intern,,
+   Company: Bixware Technologies Pvt Ltd,,
+   Location: Bengaluru, Karnataka,
+   Description: The job description is vague and lacks specific details about the responsibilities, qualifications, and requirements. It appears to be a generic template rather than a real job posting.
